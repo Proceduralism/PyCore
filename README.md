@@ -1,8 +1,3 @@
-# PyCore
-Visual Effects Python Pipeline Core
+**SetShot.py** : 베이스와 대조하여, 프로젝트, 시퀀스, 샷을 설정해서, 환경변수로 만드는 기능을 합니다.
 
-
-# PyCore Tools
-**Shot Setup**
-**Asset Browser**
-**Asset Publish System**
+**run_houdini.py** : 환경변수로 생성된 프로젝트, 시퀀스, 샷 데이타베이스를 기반으로 후디니를 실행하고, 후디니 실행 후 변수를 통해 에셋을 연결합니다.
